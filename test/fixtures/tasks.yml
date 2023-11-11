@@ -2,14 +2,10 @@
 
 one:
   tittle: MyString
-  details: MyString
-  text: MyString
-  completed: MyString
-  boolean: MyString
+  details: MyText
+  completed: false
 
 two:
   tittle: MyString
-  details: MyString
-  text: MyString
-  completed: MyString
-  boolean: MyString
+  details: MyText
+  completed: false
